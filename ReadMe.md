@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a student at PUC-PR University in the Computer Science course<br>👯 I'm looking for internship<br>🤝 I have more proficiency in HTML CSS and JS but I'm always looking to learn more about other programming.<br>
+🔭 I am a student at PUC-PR University in the Computer Science course<br>👯 I'm looking for internship<br>🤝 I have more proficiency in HTML CSS and JS but I'm always looking to learn more about other programming.<br> 💻​ https://fernandozibetti.netlify.app/ <br>
 
 
 ## 🌐 Socials:
